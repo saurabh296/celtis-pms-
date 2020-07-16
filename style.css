@@ -1,0 +1,43 @@
+.header {
+    padding-left: 10px;
+    color: white;
+    padding-top: 5px;
+}
+
+.header2 {
+    background-color: black;
+}
+.k3 {
+    text-align: right;
+    padding-left: 600px;
+}
+.doc2 {
+    text-align:right;
+}
+.doc {
+    text-align:left;
+}
+.box1 {
+    color:#07b507;
+}
+.box2 {
+    color: #ff6347;
+}
+
+  
+  .pic {
+    border-radius: 50%;
+  }
+  .div1 {
+      color: green;
+  }
+  .div1 {
+      color:purple;
+  }
+  .div3 {
+      color:yellowgreen;
+  }
+  .div4 {
+      color:green;
+  }
+  
